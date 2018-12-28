@@ -11,5 +11,7 @@ public class Main {
         System.out.println("temp1 = " + temp1);
         int temp2 = 200;
         System.out.println("temp2 = " + temp2);
+        int temp3 = 200;
+        System.out.println("temp2 = " + temp3);
     }
 }
